@@ -30,7 +30,7 @@ We've 8 topic scroing 3 point each. So the total score is 24 point.\
 Point description\
 1 = Below expectation\
 2 = Meet expectation\
-3 = Beyond Expectation\
+3 = Beyond Expectation
 #### Scoring Topic
 - Code structural/Architecture and code quality/standard (Efficiency, Readability, Maintainability) **[Frontend]**
 - UX/UI Design **[Frontend]**
@@ -70,7 +70,7 @@ Point description\
 คะแนนเต็ม 24 คะแนนโดยแบ่งเป็น 8 หัวข้อๆละ 3 คะแนน โดยมีหลักการให้คะแนน ดังต่อไปนี้\
 1 = ทำได้ต่ำกว่าความคาดหวัง\
 2 = ทำได้ตามความคาดหวัง\
-3 = ทำได้เกินความคาดหวัง\
+3 = ทำได้เกินความคาดหวัง
 ###### หัวข้อการให้คะแนน มีดังต่อไปนี้
 1. โครงสร้างการเขียน code ทั้งหมด เช่น รูปแบบการจัดวางไฟล์ และ คุณภาพการเขียนโค้ด (Efficiancy, Readability, Maintainability) **[Frontend]** 
 2. ความสวยงามของ UI **[Frontend]** 
